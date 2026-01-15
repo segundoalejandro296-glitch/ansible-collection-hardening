@@ -1,4 +1,4 @@
-# Ansible Collection - devsec.hardening
+# Ansible Collection - lolag2286@gmail.com
 
 [![devsec.os_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening.yml/badge.svg)](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening.yml)
 [![devsec.os_hardening VM](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening_vm.yml/badge.svg)](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening_vm.yml)
